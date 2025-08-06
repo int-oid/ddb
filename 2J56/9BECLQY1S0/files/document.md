@@ -1,15 +1,15 @@
 # PUBLIC RELEASE DOCUMENT MODEL 9BECLQY1S0
-+--------------------------+--------------------------------------------+
-| DOCUMENT SERIES | SPECIMEN: INTERNATIONAL ORGANIZATION |
-| DOCUMENT VALIDITY/STATUS| SPECIMEN / S96D |
-| DOCUMENT TYPE | PL / LAISSEZ PASSER |
-| DOCUMENT VERSION | V1 |
-| PUBLICATION DATE | 5 AUG 2025 |
-| AUTHORIZED USE | PUBLIC RELEASE |
-| CONFIDENTIALITY | PB8 |
-| DOCUMENT SIZE | TD3/ID3 |
-| DOCUMENT MODEL | 9BECLQY1S0 |
-| NUMBER OF PAGES | 48 |
-| LOGICAL DATA STRUCTURE / RFID DATA STRUCTURE | - |
-| REFERENCE NO. | OIDI/DDB/2J56/9BECLQY1S0 |
-+--------------------------+--------------------------------------------+
+| N\A                    | N\A                                    |
+|--------------------------|--------------------------------------------|
+| DOCUMENT SERIES         | SPECIMEN: INTERNATIONAL ORGANIZATION       |
+| DOCUMENT VALIDITY/STATUS| SPECIMEN / S96D                            |
+| DOCUMENT TYPE           | PL / LAISSEZ PASSER                        |
+| DOCUMENT VERSION        | V1                                         |
+| PUBLICATION DATE        | 5 AUG 2025                                 |
+| AUTHORIZED USE          | PUBLIC RELEASE                             |
+| CONFIDENTIALITY         | PB8                                        |
+| DOCUMENT SIZE           | TD3/ID3                                    |
+| DOCUMENT MODEL          | 9BECLQY1S0                                 |
+| NUMBER OF PAGES         | 48                                         |
+| LOGICAL DATA STRUCTURE  | -                                          |
+| REFERENCE NO.           | OIDI/DDB/2J56/9BECLQY1S0                    |
