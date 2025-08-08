@@ -1,4 +1,5 @@
 # PUBLIC RELEASE DOCUMENT MODEL 9BECLQY1S0
+# DEPRECATED: v1
 | N\A                    | N\A                                    |
 |--------------------------|--------------------------------------------|
 | DOCUMENT SERIES         | SPECIMEN: INTERNATIONAL ORGANIZATION       |
