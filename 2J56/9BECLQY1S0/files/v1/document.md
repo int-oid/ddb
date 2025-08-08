@@ -2,7 +2,7 @@
 | FIELD                    | VALUE                                    |
 |--------------------------|--------------------------------------------|
 | DOCUMENT SERIES         | SPECIMEN: INTERNATIONAL ORGANIZATION, UNO       |
-| DOCUMENT VALIDITY/STATUS| SPECIMEN / S96D                            |
+| DOCUMENT VALIDITY/STATUS| PERSONALIZED SPECIMEN / S96D                            |
 | DOCUMENT TYPE           | PL / LAISSEZ PASSER                        |
 | DOCUMENT VERSION        | V1                                         |
 | PUBLICATION DATE        | 8 AUG 2025                                 |
